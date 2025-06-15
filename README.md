@@ -77,3 +77,5 @@ Dengan template Vite Vue 3, Anda akan mendapatkan:
 - `@vitejs/plugin-vue` (plugin Vue untuk Vite)
 
 Tidak perlu library tambahan lainnya karena algoritma Hungarian murni diimplementasikan dalam JavaScript.
+
+npm install jspdf html2canvas
